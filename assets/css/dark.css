@@ -1,0 +1,10 @@
+:root{
+    --initialWhite:#141414;
+    --headingColor:#fff;
+    --headingTwoColor:#fff;
+    --pColor:#fff;
+    --clientsSectionColor: #fff;
+    --navLinksColor:lightgrey;
+    --featuresBox:black;
+    --iconBoxShadow:0 0 29px 0 rgba(255, 255, 255, 0.15);
+}
