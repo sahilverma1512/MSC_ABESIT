@@ -1,10 +1,2 @@
-# MSAC KIIT Website
-FORM FIELDS
-## Required fields
-NAME
-EMAIL ID
-PHONE NUMBER
-COLLEGE
-YEAR
-# optional
-EVENTS => DROP DOWN 
+# MSC ABESIT Website
+abesit.in
